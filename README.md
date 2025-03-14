@@ -1,4 +1,4 @@
-# Ense271Labs
+# ENSE 271 – People-Centered Design - Laboratory
 Welcome to my Ense 271 lab repositry<br>
 **Lab Overview:**<br>
 The purpose of the lab is to introduce you to tools supporting
