@@ -1,6 +1,0 @@
-[11-Mar-2025 22:17:26 UTC] PHP Warning:  Undefined property: stdClass::$id in C:\Users\kamra\Desktop\Ense271Labs\ense271lab5\app\public\wp-includes\rest-api\endpoints\class-wp-rest-posts-controller.php on line 735
-[11-Mar-2025 22:17:26 UTC] PHP Warning:  Undefined property: stdClass::$post_parent in C:\Users\kamra\Desktop\Ense271Labs\ense271lab5\app\public\wp-includes\rest-api\endpoints\class-wp-rest-posts-controller.php on line 738
-[11-Mar-2025 22:40:28 UTC] PHP Warning:  Undefined property: stdClass::$id in C:\Users\kamra\Desktop\Ense271Labs\ense271lab5\app\public\wp-includes\rest-api\endpoints\class-wp-rest-posts-controller.php on line 735
-[11-Mar-2025 22:40:28 UTC] PHP Warning:  Undefined property: stdClass::$post_parent in C:\Users\kamra\Desktop\Ense271Labs\ense271lab5\app\public\wp-includes\rest-api\endpoints\class-wp-rest-posts-controller.php on line 738
-[11-Mar-2025 22:53:04 UTC] PHP Warning:  Undefined property: stdClass::$id in C:\Users\kamra\Desktop\Ense271Labs\ense271lab5\app\public\wp-includes\rest-api\endpoints\class-wp-rest-posts-controller.php on line 735
-[11-Mar-2025 22:53:04 UTC] PHP Warning:  Undefined property: stdClass::$post_parent in C:\Users\kamra\Desktop\Ense271Labs\ense271lab5\app\public\wp-includes\rest-api\endpoints\class-wp-rest-posts-controller.php on line 738
